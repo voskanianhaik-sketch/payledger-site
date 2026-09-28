@@ -8,8 +8,8 @@ const NAV_LINKS = [
   { label: 'Contact', href: '#contact' },
 ];
 
-const PHONE = '747-347-7198';
-const PHONE_HREF = 'tel:+17473477198';
+const PHONE = '484-878-5303';
+const PHONE_HREF = 'tel:+14848785303';
 const EMAIL = 'info@payledgersolutions.com';
 const EMAIL_HREF = 'mailto:info@payledgersolutions.com';
 const ADDRESS = '2395 Lancaster Pike, Suite 4122, Reading, PA 19607';

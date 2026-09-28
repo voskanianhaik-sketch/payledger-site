@@ -2,8 +2,8 @@ import { useState } from 'react';
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle2 } from 'lucide-react';
 import { useScrollReveal } from '@/hooks/useScrollReveal';
 
-const PHONE = '747-347-7198';
-const PHONE_HREF = 'tel:+17473477198';
+const PHONE = '484-878-5303';
+const PHONE_HREF = 'tel:+14848785303';
 const EMAIL = 'info@payledgersolutions.com';
 const EMAIL_HREF = 'mailto:info@payledgersolutions.com';
 
